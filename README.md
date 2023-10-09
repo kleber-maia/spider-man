@@ -1,6 +1,6 @@
 # spider-man
 
-https://github.com/kleber-maia/spider-man/assets/10270929/3848cf8d-8366-401e-b66f-4f5120b5f0a3
+https://github.com/kleber-maia/spider-man/assets/10270929/5dde2703-26a7-4ec8-b6cf-c6b59d847e01
 
 This was my first time ever creating a game. It turned out looking and feeling pretty good (IMHO). It's not feature complete, but it's playable:
 
